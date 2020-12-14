@@ -1,0 +1,26 @@
+*,body {
+    font-family: monospace;
+    background-color: lightblue;
+}
+.baslik{
+    color: green;
+    font-size: 35px;
+    text-align: center;
+}
+.btn1,.btn2,.btn3{
+    margin-left: 626px;
+}
+.btn3{
+    margin-top: 5px;
+}
+.tahmin{
+    margin-left: 580px;
+}
+.control{
+    margin-left: 639px;
+    margin-top: 5px;
+    margin-bottom: -6px;
+}
+.gif{
+    margin-left: 450px;
+}
